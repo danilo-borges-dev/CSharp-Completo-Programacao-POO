@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\bin\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\bin\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\bin\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\bin\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\bin\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\obj\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\obj\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\obj\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\obj\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\obj\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\obj\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\obj\Debug\net6.0\refint\PrimeiroProgramaCSharpDoCurso.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\obj\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\obj\Debug\net6.0\PrimeiroProgramaCSharpDoCurso.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\PrimeiroProgramaCSharpDoCurso\obj\Debug\net6.0\ref\PrimeiroProgramaCSharpDoCurso.dll
