@@ -24,3 +24,22 @@ Console.WriteLine($"Medida com oito casa decimais: {Medida:F8}");
 Console.WriteLine($"Arredondado (três casa decimais): {Medida:F3}");
 Console.WriteLine($"Separador decimal invariant culture: {Medida.ToString("F3", CultureInfo.InvariantCulture)}");
 
+Console.WriteLine("\n");
+
+double value2 = 10_123.56986;
+
+Console.WriteLine($"Três casas decimais {value2.ToString("F3", CultureInfo.InvariantCulture)}");
+Console.WriteLine($"Três casas decimais {value2:F3}");
+
+
+int n7 = new int();
+double n8 = new double();
+decimal n9 = new decimal();
+float n10 = new float();
+ulong n11 = new ulong();
+long n12 = new long();
+short n13 = new short();
+byte n14 = new byte();
+char n15 = new char();
+string n16;
+bool n17= new bool();
