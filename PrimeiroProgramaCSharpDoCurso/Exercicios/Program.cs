@@ -43,3 +43,21 @@ byte n14 = new byte();
 char n15 = new char();
 string n16;
 bool n17= new bool();
+
+
+double n18 = 18.182;
+int n19 = (int)n18;
+Console.WriteLine(n19);
+
+string s = "ABC";
+
+s += "CDF";
+
+Console.WriteLine(s);
+
+int n20 = 10;
+int n21 = n20++;
+
+Console.WriteLine(n20++);
+Console.WriteLine(n20);
+Console.WriteLine(n21);Console.WriteLine(n21);
