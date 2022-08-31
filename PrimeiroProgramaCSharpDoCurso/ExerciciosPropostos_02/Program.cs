@@ -2,24 +2,34 @@
 
 do
 {
+    int num = new int();
     Console.WriteLine("Digite um número ou digite s para sair: ");
     condicao = Console.ReadLine();
 
-    int num = new int();
 
     if (condicao == "s")
     {
-        num = int.Parse(condicao);
+        return;
     }
     else
     {
-        if (num > 0)
+        num = int.Parse(condicao);
+        //if (num > 0)
+        //{
+        //    Console.WriteLine("O número é positivo.");
+        //}
+        //else
+        //{
+        //    Console.WriteLine("O número é negativo.");
+        //}
+
+        if (num % 2 == 0)
         {
-            Console.WriteLine("O número é positivo.");
+            Console.WriteLine("O número é par.");
         }
         else
         {
-            Console.WriteLine("O número é negativo.");
+            Console.WriteLine("O número é impar.");
         }
     }
 
