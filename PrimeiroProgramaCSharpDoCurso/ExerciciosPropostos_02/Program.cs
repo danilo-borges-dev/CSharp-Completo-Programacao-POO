@@ -108,3 +108,88 @@
 
 //Console.WriteLine($"Total: {valor.ToString("F2", CultureInfo.InvariantCulture)}");
 
+//Console.WriteLine("Entrada: ");
+//double valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+//if (valor >= 0.0 && valor <= 25.0)
+//{
+//    Console.WriteLine("Intervalo [0,25]");
+//    return;
+//}
+
+//if (valor >= 25.0 && valor <= 50.0)
+//{
+//    Console.WriteLine("Intervalo [25,50]");
+//    return;
+//}
+
+//if (valor >= 50.0 && valor <= 75.0)
+//{
+//    Console.WriteLine("Intervalo [50,75]");
+//    return;
+//}
+
+//if (valor >= 75.0 && valor <= 100.0)
+//{
+//    Console.WriteLine("Intervalo [75,100]");
+//    return;
+//}
+
+//Console.WriteLine("Fora do intervalo.");
+
+
+//Console.WriteLine("Entrada: ");
+//string[] valor = Console.ReadLine().Split(" ");
+
+//double x = double.Parse(valor[0]);
+//double y = double.Parse(valor[1]);
+
+//if (x == 0.0 && y == 0.0)
+//{
+//    Console.WriteLine("Origem");
+//    return;
+//}
+
+//if (x > 0.0 && y < 0.0)
+//{
+//    Console.WriteLine("Q4");
+//    return;
+//}
+
+//if (x > 0.0 && y > 0.0)
+//{
+//    Console.WriteLine("Q1");
+//    return;
+//}
+
+Console.WriteLine("Entrada: ");
+double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+double imposto = new double();
+
+if (salario <= 2_000.00)
+{
+    imposto = 0.0;
+    Console.WriteLine("Isento");
+    return;
+}
+else
+{
+    if (salario <= 3_000.00)
+    {
+        imposto = (salario - 2_000.00) * 0.08;
+    }
+    else
+    {
+        if (salario <= 4_500.00)
+        {
+            imposto = (salario - 3_000.00) * 0.18 + 1000.0 * 0.08;
+        }
+        else
+        {
+            imposto = (salario - 4_500.00) * 0.28 + 1_500.00 * 0.18 + 1_000.00 * 0.08;
+        }
+    }
+}
+
+Console.WriteLine("R$ " + imposto.ToString("F2", CultureInfo.InvariantCulture));
