@@ -5,17 +5,24 @@ int n3 = int.Parse(Console.ReadLine());
 
 int maior = new int();
 
-if (n1 > n2 && n1 > n3)
-{
-    maior = n1;
-}
-else if (n2 > n3)
-{
-    maior = n2;
-}
-else
-{
-    maior = n3;
-}
+maior = Maior(n1, n2, n3);
 
 Console.WriteLine($"Mair número digitado: {maior}");
+
+int Maior(int a, int b, int c)
+{
+    int maior = new int();
+    if (a > b && a > c)
+    {
+        maior = a;
+    }
+    else if (b > c)
+    {
+        maior = b;
+    }
+    else
+    {
+        maior = c;
+    }
+    return maior;
+}
