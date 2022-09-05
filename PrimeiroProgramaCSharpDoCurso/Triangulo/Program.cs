@@ -18,7 +18,7 @@ yA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 yB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 yC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-double p = (xA + xB + xC) * 2.0;
+double p = (xA + xB + xC) / 2.0;
 double areaX = Math.Sqrt(p * (p - xA) * (p - xB) * (p - xC));
 
 p = (yA + yB + yC) / 2.0;
