@@ -25,15 +25,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangulo_2", "Triangulo_2\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestandoRetorn", "TestandoRetorn\TestandoRetorn.csproj", "{5188EE75-32F4-4676-8107-077CE9553807}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo_03", "Triangulo_03\Triangulo_03.csproj", "{318E7045-1BFA-4AAC-9E72-CFAE1E8F81A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangulo_03", "Triangulo_03\Triangulo_03.csproj", "{318E7045-1BFA-4AAC-9E72-CFAE1E8F81A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_01", "Exercicio_01\Exercicio_01.csproj", "{04E7FAF0-8FDA-4528-B077-4D31B8B7D244}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_01", "Exercicio_01\Exercicio_01.csproj", "{04E7FAF0-8FDA-4528-B077-4D31B8B7D244}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_02", "Exercicio_02\Exercicio_02.csproj", "{F62E8916-AC38-480D-9900-F5B1E793EB51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_02", "Exercicio_02\Exercicio_02.csproj", "{F62E8916-AC38-480D-9900-F5B1E793EB51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traingulo_04", "Traingulo_04\Traingulo_04.csproj", "{4557614F-D078-4DEF-99F6-6873FDE516E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Traingulo_04", "Traingulo_04\Traingulo_04.csproj", "{4557614F-D078-4DEF-99F6-6873FDE516E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProdutosEmEstoque", "ProdutosEmEstoque\ProdutosEmEstoque.csproj", "{03CC519A-DDDF-45E6-9174-3AD864DA932F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProdutosEmEstoque", "ProdutosEmEstoque\ProdutosEmEstoque.csproj", "{03CC519A-DDDF-45E6-9174-3AD864DA932F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_03", "Exercicio_03\Exercicio_03.csproj", "{6DBBEB5E-FBBA-489E-B688-1E3A4BEF4E9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{03CC519A-DDDF-45E6-9174-3AD864DA932F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03CC519A-DDDF-45E6-9174-3AD864DA932F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03CC519A-DDDF-45E6-9174-3AD864DA932F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DBBEB5E-FBBA-489E-B688-1E3A4BEF4E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DBBEB5E-FBBA-489E-B688-1E3A4BEF4E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DBBEB5E-FBBA-489E-B688-1E3A4BEF4E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DBBEB5E-FBBA-489E-B688-1E3A4BEF4E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
