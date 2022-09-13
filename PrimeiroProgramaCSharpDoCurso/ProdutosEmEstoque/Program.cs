@@ -24,3 +24,5 @@ Console.Write("\nDigite o número de produtos a ser removido do estoque: ");
 n = int.Parse(Console.ReadLine());
 p.RemoverDoEstoque(n);
 Console.WriteLine();
+
+Console.WriteLine($"{p}");

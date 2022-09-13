@@ -2,7 +2,7 @@
 
 namespace ProdutosEmEstoque
 {
-    internal class Produto
+    internal class Produto : Object
     {
         public string Nome { get; set; }
         public double Preco { get; set; }
