@@ -20,6 +20,11 @@ namespace ProdutosEmEstoque
             ToString();
         }
 
+        public double ValorTotalEmEstoque()
+        {
+            return QtdEstoque * Preco;
+        }
+
         public override string ToString()
         {
             Console.WriteLine($"\nDados atualizados: {Nome}, ${Preco.ToString("F2", CultureInfo.InvariantCulture)}, {QtdEstoque} unidades, Total: ${(Preco * QtdEstoque).ToString("F2", CultureInfo.InvariantCulture)}");
