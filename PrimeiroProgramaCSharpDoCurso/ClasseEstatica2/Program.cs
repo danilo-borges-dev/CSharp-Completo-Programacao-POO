@@ -12,10 +12,9 @@ void Main()
     Console.Write("Entre com o valor do raio: ");
     raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-    Calculadora c = new();
 
-    circunferencia = c.Circunferencia(raio);
-    volume = c.Volume(raio);
+    circunferencia = Calculadora.Circunferencia(raio);
+    volume = Calculadora.Volume(raio);
 
     // Exibição de String via Console com PlaceHolders
     Console.WriteLine("\nCircunferência: {0}", circunferencia.ToString("F2", CultureInfo.InvariantCulture));
