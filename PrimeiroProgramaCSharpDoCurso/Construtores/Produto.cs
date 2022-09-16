@@ -8,6 +8,8 @@ namespace Construtores
         public double Valor { get; set; }
         public string Codigo { get; set; }
         public int Quantidade { get; set; }
+        public int DataDeCricao { get; set; }
+        public string CodigoEntradaNoEstoque { get; set; }
         public Produto() { }
 
         public Produto (string nome, double valor, int quantidade, string codigo = "100")
@@ -16,6 +18,16 @@ namespace Construtores
             Valor = valor;
             Quantidade = quantidade;
             Codigo = codigo;
+        }
+
+        public Produto (string nome, double valor, string codigo, int quantidade, int dataDeCricao, string codigoEntradaNoEstoque)
+        {
+            Nome = nome;
+            Valor = valor;
+            Codigo = codigo;
+            Quantidade = quantidade;
+            DataDeCricao = dataDeCricao;
+            CodigoEntradaNoEstoque = codigoEntradaNoEstoque;
         }
 
         public double ValorTotalEmEstoque()
