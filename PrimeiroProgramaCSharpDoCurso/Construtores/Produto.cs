@@ -33,9 +33,9 @@ namespace Construtores
 
         public override string ToString()
         {
-            return $"\nNome: {Nome}" +
-                $"$ {Valor.ToString("F2", CultureInfo.InvariantCulture)}" +
-                $"{Quantidade}, unidades" +
+            return $"\nNome: {Nome}, " +
+                $"$ {Valor.ToString("F2", CultureInfo.InvariantCulture)}, " +
+                $"{Quantidade} unidades, " +
                 $"Total: $ {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }

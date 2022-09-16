@@ -1,5 +1,5 @@
 ﻿using Construtores;
 
-Produto p = new("Macarrão", 100);
+Produto p = new();
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine(p);
