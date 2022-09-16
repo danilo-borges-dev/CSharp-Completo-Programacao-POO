@@ -10,10 +10,11 @@ namespace Construtores
         public int Quantidade { get; set; }
         public Produto() { }
 
-        public Produto (string nome, double valor, string codigo = "100")
+        public Produto (string nome, double valor, int quantidade, string codigo = "100")
         {
             Nome = nome;
             Valor = valor;
+            Quantidade = quantidade;
             Codigo = codigo;
         }
 
