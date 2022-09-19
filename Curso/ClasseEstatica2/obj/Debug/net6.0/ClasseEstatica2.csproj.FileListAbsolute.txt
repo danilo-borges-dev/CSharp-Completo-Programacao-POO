@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\bin\Debug\net6.0\ClasseEstatica2.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\bin\Debug\net6.0\ClasseEstatica2.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\bin\Debug\net6.0\ClasseEstatica2.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\bin\Debug\net6.0\ClasseEstatica2.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\bin\Debug\net6.0\ClasseEstatica2.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\obj\Debug\net6.0\ClasseEstatica2.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\obj\Debug\net6.0\ClasseEstatica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\obj\Debug\net6.0\ClasseEstatica2.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\obj\Debug\net6.0\ClasseEstatica2.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\obj\Debug\net6.0\ClasseEstatica2.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\obj\Debug\net6.0\ClasseEstatica2.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\obj\Debug\net6.0\refint\ClasseEstatica2.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\obj\Debug\net6.0\ClasseEstatica2.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\obj\Debug\net6.0\ClasseEstatica2.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\PrimeiroProgramaCSharpDoCurso\ClasseEstatica2\obj\Debug\net6.0\ref\ClasseEstatica2.dll
