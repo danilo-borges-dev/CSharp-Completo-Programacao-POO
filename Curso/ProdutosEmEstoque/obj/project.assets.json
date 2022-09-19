@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\ProdutosEmEstoque\\ProdutosEmEstoque.csproj",
+      "projectUniqueName": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\ProdutosEmEstoque\\ProdutosEmEstoque.csproj",
       "projectName": "ProdutosEmEstoque",
-      "projectPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\ProdutosEmEstoque\\ProdutosEmEstoque.csproj",
+      "projectPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\ProdutosEmEstoque\\ProdutosEmEstoque.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\ProdutosEmEstoque\\obj\\",
+      "outputPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\ProdutosEmEstoque\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

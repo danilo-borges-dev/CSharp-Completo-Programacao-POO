@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\00_Course\\00_Course.csproj",
+      "projectUniqueName": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\00_Course\\00_Course.csproj",
       "projectName": "00_Course",
-      "projectPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\00_Course\\00_Course.csproj",
+      "projectPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\00_Course\\00_Course.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\00_Course\\obj\\",
+      "outputPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\00_Course\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

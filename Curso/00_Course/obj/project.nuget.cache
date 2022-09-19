@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/TdHqYul6aE+HFwSYXglOWfp5xLJ4VGyonx6p8ViQvRxIqGtEYdtMbZTx6LI4oZcFmAKsRzgC2J/binEY5295w==",
+  "dgSpecHash": "A2HXImDc4767oSRDW9Dq45An2rXRjYjqPOjRIouit255oimajUNeDJacLDJxra1UUiB8dpmMqblNpyLpYxiqYQ==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\00_Course\\00_Course.csproj",
+  "projectFilePath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\00_Course\\00_Course.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

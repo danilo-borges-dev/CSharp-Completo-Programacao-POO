@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\ClasseEstatica\\ClasseEstatica.csproj",
+      "projectUniqueName": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\ClasseEstatica\\ClasseEstatica.csproj",
       "projectName": "ClasseEstatica",
-      "projectPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\ClasseEstatica\\ClasseEstatica.csproj",
+      "projectPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\ClasseEstatica\\ClasseEstatica.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\ClasseEstatica\\obj\\",
+      "outputPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\ClasseEstatica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\EqucaoDoSegundoGrau\\EqucaoDoSegundoGrau.csproj": {}
+    "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\EqucaoDoSegundoGrau\\EqucaoDoSegundoGrau.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\EqucaoDoSegundoGrau\\EqucaoDoSegundoGrau.csproj": {
+    "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\EqucaoDoSegundoGrau\\EqucaoDoSegundoGrau.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\EqucaoDoSegundoGrau\\EqucaoDoSegundoGrau.csproj",
+        "projectUniqueName": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\EqucaoDoSegundoGrau\\EqucaoDoSegundoGrau.csproj",
         "projectName": "EqucaoDoSegundoGrau",
-        "projectPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\EqucaoDoSegundoGrau\\EqucaoDoSegundoGrau.csproj",
+        "projectPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\EqucaoDoSegundoGrau\\EqucaoDoSegundoGrau.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\EqucaoDoSegundoGrau\\obj\\",
+        "outputPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\EqucaoDoSegundoGrau\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

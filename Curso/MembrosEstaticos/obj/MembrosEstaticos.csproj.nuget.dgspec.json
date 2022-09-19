@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\MembrosEstaticos\\MembrosEstaticos.csproj": {}
+    "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\MembrosEstaticos\\MembrosEstaticos.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\MembrosEstaticos\\MembrosEstaticos.csproj": {
+    "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\MembrosEstaticos\\MembrosEstaticos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\MembrosEstaticos\\MembrosEstaticos.csproj",
+        "projectUniqueName": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\MembrosEstaticos\\MembrosEstaticos.csproj",
         "projectName": "MembrosEstaticos",
-        "projectPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\MembrosEstaticos\\MembrosEstaticos.csproj",
+        "projectPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\MembrosEstaticos\\MembrosEstaticos.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\MembrosEstaticos\\obj\\",
+        "outputPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\MembrosEstaticos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

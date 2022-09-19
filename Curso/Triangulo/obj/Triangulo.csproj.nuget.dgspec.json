@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\Triangulo\\Triangulo.csproj": {}
+    "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\Triangulo\\Triangulo.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\Triangulo\\Triangulo.csproj": {
+    "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\Triangulo\\Triangulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\Triangulo\\Triangulo.csproj",
+        "projectUniqueName": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\Triangulo\\Triangulo.csproj",
         "projectName": "Triangulo",
-        "projectPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\Triangulo\\Triangulo.csproj",
+        "projectPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\Triangulo\\Triangulo.csproj",
         "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\PrimeiroProgramaCSharpDoCurso\\Triangulo\\obj\\",
+        "outputPath": "C:\\Workspace\\CSharp-Completo-Programacao-POO\\Curso\\Triangulo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
