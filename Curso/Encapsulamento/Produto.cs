@@ -2,16 +2,39 @@
 {
     internal class Produto
     {
-        private string Nome { get; set; }
-        private int Quantidade { get; set;  }
-        private double Valor { get; set; }
+        private string _nome { get; set; }
+
+
+        public int Quantidade { get; private set; }
+
+
+        public double Valor { get; private set; }
+
 
         public Produto(string nome, int quantidade, double valor)
         {
-            Nome = nome;
+            _nome = nome;
             Quantidade = quantidade;
             Valor = valor;
         }
+
+
+        public string Nome 
+        { 
+            get 
+            {
+                return _nome; 
+            } 
+            set 
+            {
+                if (String.IsNullOrEmpty(value))
+                {
+                    Nome = value;
+                }
+                throw new ArgumentNullException();
+            } 
+        }
+
 
         public void DefinirNome(string nome)
         {
@@ -19,12 +42,7 @@
             {
                 Nome = nome;
             }
-            throw new ArgumentNullException(message: "Preencha o Campo Nome");
-        }
-
-        public string GetNomeDeCliente()
-        {
-            return Nome;
+            throw new ArgumentNullException();
         }
     } 
 }
