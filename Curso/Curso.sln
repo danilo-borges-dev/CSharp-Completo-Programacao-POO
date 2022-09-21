@@ -67,9 +67,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_12", "Exercicio_1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SintaxeEspecialDeInstaciacaoDeClasse", "SintaxeEspecialDeInstaciacaoDeClasse\SintaxeEspecialDeInstaciacaoDeClasse.csproj", "{2B0B48B5-857A-48E1-B133-E170781AE76D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalavraReservadaThis", "PalavraReservadaThis\PalavraReservadaThis.csproj", "{7DA7C713-876E-4083-B737-2CC8F93BCBAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalavraReservadaThis", "PalavraReservadaThis\PalavraReservadaThis.csproj", "{7DA7C713-876E-4083-B737-2CC8F93BCBAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{A5B46728-2D0C-47B6-B13A-4C4AE7EB121C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{A5B46728-2D0C-47B6-B13A-4C4AE7EB121C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_13", "Exercicio_13\Exercicio_13.csproj", "{993D9DD7-2963-40F4-8407-320B7029780F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{A5B46728-2D0C-47B6-B13A-4C4AE7EB121C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5B46728-2D0C-47B6-B13A-4C4AE7EB121C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5B46728-2D0C-47B6-B13A-4C4AE7EB121C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993D9DD7-2963-40F4-8407-320B7029780F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993D9DD7-2963-40F4-8407-320B7029780F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993D9DD7-2963-40F4-8407-320B7029780F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993D9DD7-2963-40F4-8407-320B7029780F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
