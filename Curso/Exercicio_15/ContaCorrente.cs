@@ -23,8 +23,9 @@ namespace Exercicio_15
         {
             if (valor > 0)
             {
-                Saldo = valor;
+                Saldo += valor;
                 Console.WriteLine($"\nValor R${valor.ToString("F2", CultureInfo.InvariantCulture)} Depositado com Sucesso!\n");
+                return;
             }
             throw new ArgumentOutOfRangeException();
         }
@@ -33,7 +34,6 @@ namespace Exercicio_15
         {
             Saldo -= (valor + 5.00);
             Console.WriteLine($"\nSaque de R${valor.ToString("F2", CultureInfo.InvariantCulture)} Realizado com Sucesso!\n");
-            Console.WriteLine($"\nSaldo da Conta ");
         }
 
         public override string ToString()

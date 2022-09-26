@@ -5,6 +5,8 @@ int numeroConta = new int();
 string nomeTitularConta;
 char teraOuNaoDepositoInicial = new char();
 double valorParaDepositoInicial = new double();
+double valorParaDeposito = new double();
+double valorParaSaque = new double();
 ContaCorrente conta = null;
 
 Console.Write("Entre com o número da conta: ");
@@ -43,11 +45,13 @@ else
 void OperarConta()
 {
     Console.Write("\nEntre com um valor para depósito: ");
-    double valorParaDeposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    valorParaDeposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    conta.DepositarValorEmContaCorrente(valorParaDeposito);
     Console.WriteLine(conta);
 
     Console.Write("\nEntre com um valor para saque: ");
-    double valorParaSaque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    valorParaSaque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    conta.RealizarSaqueEmContaCorrente(valorParaSaque);
     Console.WriteLine(conta);
 }
 
