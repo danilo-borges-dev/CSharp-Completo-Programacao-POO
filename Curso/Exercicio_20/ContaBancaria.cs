@@ -14,13 +14,21 @@ namespace Exercicio_20
             Titular = titular;
             Saldo = 0.0;
         }
-        public ContaBancaria(int numero, string titular, double saldo) : this (numero, titular)
+        public ContaBancaria(int numero, string titular, double desposito) : this (numero, titular)
         {
-            Saldo = saldo;
+            Deposito(desposito);
         }
         public override string ToString()
         {
             return $"Conta {Numero}, Titular {Titular}, Saldo $ {Saldo.ToString("F2", CultureInfo.InvariantCulture)}";
+        }
+        public void Deposito(double quantia)
+        {
+            Saldo += quantia;
+        }
+        public void Saque(double quantia)
+        {
+            Saldo -= (quantia + 5.0);
         }
     }
 }
