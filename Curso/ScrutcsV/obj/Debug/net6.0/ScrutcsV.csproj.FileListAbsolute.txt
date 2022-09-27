@@ -1,0 +1,5 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\ScrutcsV.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\ScrutcsV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\ScrutcsV.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\ScrutcsV.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\ScrutcsV.csproj.CoreCompileInputs.cache
