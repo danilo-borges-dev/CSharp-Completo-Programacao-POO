@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\bin\Debug\net6.0\ValorNulo.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\bin\Debug\net6.0\ValorNulo.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\bin\Debug\net6.0\ValorNulo.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\bin\Debug\net6.0\ValorNulo.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\bin\Debug\net6.0\ValorNulo.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\obj\Debug\net6.0\ValorNulo.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\obj\Debug\net6.0\ValorNulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\obj\Debug\net6.0\ValorNulo.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\obj\Debug\net6.0\ValorNulo.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\obj\Debug\net6.0\ValorNulo.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\obj\Debug\net6.0\ValorNulo.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\obj\Debug\net6.0\refint\ValorNulo.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\obj\Debug\net6.0\ValorNulo.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\obj\Debug\net6.0\ValorNulo.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ValorNulo\obj\Debug\net6.0\ref\ValorNulo.dll
