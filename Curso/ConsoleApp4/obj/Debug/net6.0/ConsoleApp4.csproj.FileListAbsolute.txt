@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll

@@ -3,3 +3,13 @@ C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\Scr
 C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\ScrutcsV.AssemblyInfoInputs.cache
 C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\ScrutcsV.AssemblyInfo.cs
 C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\ScrutcsV.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\bin\Debug\net6.0\ScrutcsV.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\bin\Debug\net6.0\ScrutcsV.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\bin\Debug\net6.0\ScrutcsV.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\bin\Debug\net6.0\ScrutcsV.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\bin\Debug\net6.0\ScrutcsV.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\ScrutcsV.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\refint\ScrutcsV.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\ScrutcsV.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\ScrutcsV.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ScrutcsV\obj\Debug\net6.0\ref\ScrutcsV.dll

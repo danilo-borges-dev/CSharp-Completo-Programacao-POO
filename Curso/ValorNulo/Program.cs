@@ -30,3 +30,5 @@ double? x = null;
 double y = x ?? x.GetValueOrDefault();
 
 Console.WriteLine(y);
+
+int numero = 10;

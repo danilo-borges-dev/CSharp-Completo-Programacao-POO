@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\bin\Debug\net6.0\PalavraReservadaThis.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\bin\Debug\net6.0\PalavraReservadaThis.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\bin\Debug\net6.0\PalavraReservadaThis.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\bin\Debug\net6.0\PalavraReservadaThis.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\bin\Debug\net6.0\PalavraReservadaThis.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\obj\Debug\net6.0\PalavraReservadaThis.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\obj\Debug\net6.0\PalavraReservadaThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\obj\Debug\net6.0\PalavraReservadaThis.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\obj\Debug\net6.0\PalavraReservadaThis.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\obj\Debug\net6.0\PalavraReservadaThis.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\obj\Debug\net6.0\PalavraReservadaThis.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\obj\Debug\net6.0\refint\PalavraReservadaThis.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\obj\Debug\net6.0\PalavraReservadaThis.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\obj\Debug\net6.0\PalavraReservadaThis.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PalavraReservadaThis\obj\Debug\net6.0\ref\PalavraReservadaThis.dll

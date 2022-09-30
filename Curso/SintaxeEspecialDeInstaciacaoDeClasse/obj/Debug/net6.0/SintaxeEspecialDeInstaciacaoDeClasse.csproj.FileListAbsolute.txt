@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\bin\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\bin\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\bin\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\bin\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\bin\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\obj\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\obj\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\obj\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\obj\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\obj\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\obj\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\obj\Debug\net6.0\refint\SintaxeEspecialDeInstaciacaoDeClasse.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\obj\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\obj\Debug\net6.0\SintaxeEspecialDeInstaciacaoDeClasse.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\SintaxeEspecialDeInstaciacaoDeClasse\obj\Debug\net6.0\ref\SintaxeEspecialDeInstaciacaoDeClasse.dll
