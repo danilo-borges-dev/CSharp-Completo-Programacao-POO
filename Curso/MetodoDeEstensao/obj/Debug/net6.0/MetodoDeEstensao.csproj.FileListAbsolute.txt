@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\bin\Debug\net6.0\MetodoDeEstensao.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\bin\Debug\net6.0\MetodoDeEstensao.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\bin\Debug\net6.0\MetodoDeEstensao.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\bin\Debug\net6.0\MetodoDeEstensao.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\bin\Debug\net6.0\MetodoDeEstensao.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\obj\Debug\net6.0\MetodoDeEstensao.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\obj\Debug\net6.0\MetodoDeEstensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\obj\Debug\net6.0\MetodoDeEstensao.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\obj\Debug\net6.0\MetodoDeEstensao.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\obj\Debug\net6.0\MetodoDeEstensao.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\obj\Debug\net6.0\MetodoDeEstensao.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\obj\Debug\net6.0\refint\MetodoDeEstensao.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\obj\Debug\net6.0\MetodoDeEstensao.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\obj\Debug\net6.0\MetodoDeEstensao.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\MetodoDeEstensao\obj\Debug\net6.0\ref\MetodoDeEstensao.dll
