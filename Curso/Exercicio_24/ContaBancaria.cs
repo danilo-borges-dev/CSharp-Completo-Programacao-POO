@@ -8,13 +8,13 @@ namespace Exercicio_24
         public int _numeroConta { get; private set; } = new int();
         public double _saldo { get; private set; } = new double();
 
-        public ContaBancaria(string nomeTitular, int numeroConta) 
+        public ContaBancaria(string nomeTitular, int numeroConta)
         {
             _nomeTitular = nomeTitular;
             _numeroConta = numeroConta;
         }
 
-        public ContaBancaria(string nomeTitular, int numeroConta, double saldoInicial) : this (nomeTitular, numeroConta)
+        public ContaBancaria(string nomeTitular, int numeroConta, double saldoInicial) : this(nomeTitular, numeroConta)
         {
             _saldo = saldoInicial;
         }
@@ -26,7 +26,10 @@ namespace Exercicio_24
                 _saldo += valor;
                 Console.WriteLine("Operação de Depósito realizado com Sucesso.");
             }
-            Console.WriteLine("Operação não Permitida, tente novamente.");
+            else
+            {
+                Console.WriteLine("Operação não Permitida, tente novamente.");
+            }
         }
 
         public void Sacar(double valor)
@@ -36,7 +39,17 @@ namespace Exercicio_24
                 _saldo -= (valor + 5.0);
                 Console.WriteLine("Operação de Saque realizado com Sucesso.");
             }
-            Console.WriteLine($"Operação não permitida. Valor para Saque $ {_saldo.ToString("F", CultureInfo.InvariantCulture)}");
+            else
+            {
+                Console.WriteLine($"Operação não permitida. Valor para Saque $ {_saldo.ToString("F", CultureInfo.InvariantCulture)}");
+            }
+        }
+
+        public override string ToString()
+        {
+            return $"\nDados da conta atualizados" +
+                $"Conta {_numeroConta}, Titular {_nomeTitular}, Saldo $ {_saldo.ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }
+

@@ -4,7 +4,7 @@ using System.Globalization;
 int numeroConta = new int();
 string nomeTitular;
 char opcao = new char();
-double saldoInicial = new double();
+double valor = new double();
 
 ContaBancaria conta;
 
@@ -18,8 +18,8 @@ opcao = char.Parse(Console.ReadLine());
 if (opcao == 's' || opcao == 'S')
 {
     Console.Write("Entre com o valor do Saldo inicial $ ");
-    saldoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-    conta = new(nomeTitular, numeroConta, saldoInicial);
+    valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+    conta = new(nomeTitular, numeroConta, valor);
 }
 else
 {
@@ -28,3 +28,13 @@ else
 
 Console.WriteLine("\nDados da conta: ");
 Console.WriteLine($"Conta {conta._numeroConta} Titular {conta._nomeTitular}, Saldo $ {conta._saldo.ToString("F2", CultureInfo.InvariantCulture)}");
+
+Console.Write("\nEntre com o valor para depósito $ ");
+valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+conta.Depositar(valor);
+Console.WriteLine(conta);
+
+Console.Write("\nEntre com o valor para saque $ ");
+valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+conta.Sacar(valor);
+Console.WriteLine(conta);
