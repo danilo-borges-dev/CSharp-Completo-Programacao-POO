@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\bin\Debug\net6.0\RevisaoNullable.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\bin\Debug\net6.0\RevisaoNullable.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\bin\Debug\net6.0\RevisaoNullable.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\bin\Debug\net6.0\RevisaoNullable.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\bin\Debug\net6.0\RevisaoNullable.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\obj\Debug\net6.0\RevisaoNullable.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\obj\Debug\net6.0\RevisaoNullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\obj\Debug\net6.0\RevisaoNullable.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\obj\Debug\net6.0\RevisaoNullable.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\obj\Debug\net6.0\RevisaoNullable.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\obj\Debug\net6.0\RevisaoNullable.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\obj\Debug\net6.0\refint\RevisaoNullable.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\obj\Debug\net6.0\RevisaoNullable.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\obj\Debug\net6.0\RevisaoNullable.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoNullable\obj\Debug\net6.0\ref\RevisaoNullable.dll
