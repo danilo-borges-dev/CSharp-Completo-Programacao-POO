@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\bin\Debug\net6.0\RevisaoMetodoDeExtensao_2.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\bin\Debug\net6.0\RevisaoMetodoDeExtensao_2.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\bin\Debug\net6.0\RevisaoMetodoDeExtensao_2.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\bin\Debug\net6.0\RevisaoMetodoDeExtensao_2.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\bin\Debug\net6.0\RevisaoMetodoDeExtensao_2.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\obj\Debug\net6.0\RevisaoMetodoDeExtensao_2.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\obj\Debug\net6.0\RevisaoMetodoDeExtensao_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\obj\Debug\net6.0\RevisaoMetodoDeExtensao_2.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\obj\Debug\net6.0\RevisaoMetodoDeExtensao_2.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\obj\Debug\net6.0\RevisaoMetodoDeExtensao_2.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\obj\Debug\net6.0\RevisaoMetodoDeExtensao_2.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\obj\Debug\net6.0\refint\RevisaoMetodoDeExtensao_2.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\obj\Debug\net6.0\RevisaoMetodoDeExtensao_2.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\obj\Debug\net6.0\RevisaoMetodoDeExtensao_2.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_2\obj\Debug\net6.0\ref\RevisaoMetodoDeExtensao_2.dll

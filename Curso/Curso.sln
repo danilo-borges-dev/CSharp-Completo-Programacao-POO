@@ -125,6 +125,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoDeExtensao", "MetodoD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisaoMetodoDeExtensao", "RevisaoMetodoDeExtensao\RevisaoMetodoDeExtensao.csproj", "{344FE43A-CDE2-4020-9473-AB4E41FA12C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisaoMetodoDeExtensao_2", "RevisaoMetodoDeExtensao_2\RevisaoMetodoDeExtensao_2.csproj", "{1C5EA11D-E7A1-45D2-BD9E-20370747BB19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -375,6 +377,10 @@ Global
 		{344FE43A-CDE2-4020-9473-AB4E41FA12C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{344FE43A-CDE2-4020-9473-AB4E41FA12C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{344FE43A-CDE2-4020-9473-AB4E41FA12C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5EA11D-E7A1-45D2-BD9E-20370747BB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5EA11D-E7A1-45D2-BD9E-20370747BB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5EA11D-E7A1-45D2-BD9E-20370747BB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5EA11D-E7A1-45D2-BD9E-20370747BB19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
