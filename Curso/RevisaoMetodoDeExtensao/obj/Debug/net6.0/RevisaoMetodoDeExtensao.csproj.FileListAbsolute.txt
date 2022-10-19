@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\bin\Debug\net6.0\RevisaoMetodoDeExtensao.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\bin\Debug\net6.0\RevisaoMetodoDeExtensao.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\bin\Debug\net6.0\RevisaoMetodoDeExtensao.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\bin\Debug\net6.0\RevisaoMetodoDeExtensao.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\bin\Debug\net6.0\RevisaoMetodoDeExtensao.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\obj\Debug\net6.0\RevisaoMetodoDeExtensao.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\obj\Debug\net6.0\RevisaoMetodoDeExtensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\obj\Debug\net6.0\RevisaoMetodoDeExtensao.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\obj\Debug\net6.0\RevisaoMetodoDeExtensao.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\obj\Debug\net6.0\RevisaoMetodoDeExtensao.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\obj\Debug\net6.0\RevisaoMetodoDeExtensao.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\obj\Debug\net6.0\refint\RevisaoMetodoDeExtensao.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\obj\Debug\net6.0\RevisaoMetodoDeExtensao.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\obj\Debug\net6.0\RevisaoMetodoDeExtensao.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao\obj\Debug\net6.0\ref\RevisaoMetodoDeExtensao.dll
