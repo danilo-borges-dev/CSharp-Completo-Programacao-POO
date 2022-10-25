@@ -115,17 +115,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RevisaoNullable", "RevisaoN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_27", "Exercicio_27\Exercicio_27.csproj", "{B644E8CF-B7D5-4C77-ADC8-2A4C894EA575}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_28", "Exercicio_28\Exercicio_28.csproj", "{C5A5923F-36FE-4CFF-92E4-D4E747D97DFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_28", "Exercicio_28\Exercicio_28.csproj", "{C5A5923F-36FE-4CFF-92E4-D4E747D97DFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_29", "Exercicio_29\Exercicio_29.csproj", "{2BB8118D-2015-4E63-AD65-15B11155CC09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_29", "Exercicio_29\Exercicio_29.csproj", "{2BB8118D-2015-4E63-AD65-15B11155CC09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_30", "Exercicio_30\Exercicio_30.csproj", "{A113D4F3-72AA-4457-BD2F-16D60C7F0156}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_30", "Exercicio_30\Exercicio_30.csproj", "{A113D4F3-72AA-4457-BD2F-16D60C7F0156}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoDeExtensao", "MetodoDeExtensao\MetodoDeExtensao.csproj", "{531A30E7-44CA-4E58-9C11-91BCA0BBADC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodoDeExtensao", "MetodoDeExtensao\MetodoDeExtensao.csproj", "{531A30E7-44CA-4E58-9C11-91BCA0BBADC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisaoMetodoDeExtensao", "RevisaoMetodoDeExtensao\RevisaoMetodoDeExtensao.csproj", "{344FE43A-CDE2-4020-9473-AB4E41FA12C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RevisaoMetodoDeExtensao", "RevisaoMetodoDeExtensao\RevisaoMetodoDeExtensao.csproj", "{344FE43A-CDE2-4020-9473-AB4E41FA12C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisaoMetodoDeExtensao_2", "RevisaoMetodoDeExtensao_2\RevisaoMetodoDeExtensao_2.csproj", "{1C5EA11D-E7A1-45D2-BD9E-20370747BB19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RevisaoMetodoDeExtensao_2", "RevisaoMetodoDeExtensao_2\RevisaoMetodoDeExtensao_2.csproj", "{1C5EA11D-E7A1-45D2-BD9E-20370747BB19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_31", "Exercicio_31\Exercicio_31.csproj", "{1947F5D8-7CCE-4240-B586-61EEAF4F6F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_32", "Exercicio_32\Exercicio_32.csproj", "{94D274BE-1074-4286-AA8E-C2C602B90107}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -381,6 +385,14 @@ Global
 		{1C5EA11D-E7A1-45D2-BD9E-20370747BB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C5EA11D-E7A1-45D2-BD9E-20370747BB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C5EA11D-E7A1-45D2-BD9E-20370747BB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1947F5D8-7CCE-4240-B586-61EEAF4F6F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1947F5D8-7CCE-4240-B586-61EEAF4F6F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1947F5D8-7CCE-4240-B586-61EEAF4F6F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1947F5D8-7CCE-4240-B586-61EEAF4F6F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D274BE-1074-4286-AA8E-C2C602B90107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D274BE-1074-4286-AA8E-C2C602B90107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D274BE-1074-4286-AA8E-C2C602B90107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D274BE-1074-4286-AA8E-C2C602B90107}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
