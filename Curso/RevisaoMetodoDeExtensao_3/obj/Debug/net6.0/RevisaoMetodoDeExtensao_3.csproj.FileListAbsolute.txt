@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\bin\Debug\net6.0\RevisaoMetodoDeExtensao_3.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\bin\Debug\net6.0\RevisaoMetodoDeExtensao_3.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\bin\Debug\net6.0\RevisaoMetodoDeExtensao_3.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\bin\Debug\net6.0\RevisaoMetodoDeExtensao_3.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\bin\Debug\net6.0\RevisaoMetodoDeExtensao_3.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\obj\Debug\net6.0\RevisaoMetodoDeExtensao_3.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\obj\Debug\net6.0\RevisaoMetodoDeExtensao_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\obj\Debug\net6.0\RevisaoMetodoDeExtensao_3.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\obj\Debug\net6.0\RevisaoMetodoDeExtensao_3.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\obj\Debug\net6.0\RevisaoMetodoDeExtensao_3.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\obj\Debug\net6.0\RevisaoMetodoDeExtensao_3.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\obj\Debug\net6.0\refint\RevisaoMetodoDeExtensao_3.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\obj\Debug\net6.0\RevisaoMetodoDeExtensao_3.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\obj\Debug\net6.0\RevisaoMetodoDeExtensao_3.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisaoMetodoDeExtensao_3\obj\Debug\net6.0\ref\RevisaoMetodoDeExtensao_3.dll
