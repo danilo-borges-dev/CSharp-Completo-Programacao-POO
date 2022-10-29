@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\bin\Debug\net6.0\Revisao_Vetores_02.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\bin\Debug\net6.0\Revisao_Vetores_02.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\bin\Debug\net6.0\Revisao_Vetores_02.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\bin\Debug\net6.0\Revisao_Vetores_02.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\bin\Debug\net6.0\Revisao_Vetores_02.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\obj\Debug\net6.0\Revisao_Vetores_02.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\obj\Debug\net6.0\Revisao_Vetores_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\obj\Debug\net6.0\Revisao_Vetores_02.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\obj\Debug\net6.0\Revisao_Vetores_02.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\obj\Debug\net6.0\Revisao_Vetores_02.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\obj\Debug\net6.0\Revisao_Vetores_02.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\obj\Debug\net6.0\refint\Revisao_Vetores_02.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\obj\Debug\net6.0\Revisao_Vetores_02.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\obj\Debug\net6.0\Revisao_Vetores_02.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisao_Vetores_02\obj\Debug\net6.0\ref\Revisao_Vetores_02.dll
