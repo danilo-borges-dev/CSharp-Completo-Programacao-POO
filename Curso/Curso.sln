@@ -153,7 +153,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisao_Vetores_02", "Revis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_39", "Exercicio_39\Exercicio_39.csproj", "{0A0CCF99-ED01-4FD2-9CEE-6B4CA1C6D22A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entendendo_Params", "Entendendo_Params\Entendendo_Params.csproj", "{0C0AF5F0-695D-4EA3-822C-5FFEAE019225}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entendendo_Params", "Entendendo_Params\Entendendo_Params.csproj", "{0C0AF5F0-695D-4EA3-822C-5FFEAE019225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entendendo_Ref", "Entendendo_Ref\Entendendo_Ref.csproj", "{76C5B5C0-F4A9-4A49-9468-63343729AA72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -465,6 +467,10 @@ Global
 		{0C0AF5F0-695D-4EA3-822C-5FFEAE019225}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C0AF5F0-695D-4EA3-822C-5FFEAE019225}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C0AF5F0-695D-4EA3-822C-5FFEAE019225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C5B5C0-F4A9-4A49-9468-63343729AA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C5B5C0-F4A9-4A49-9468-63343729AA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C5B5C0-F4A9-4A49-9468-63343729AA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C5B5C0-F4A9-4A49-9468-63343729AA72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

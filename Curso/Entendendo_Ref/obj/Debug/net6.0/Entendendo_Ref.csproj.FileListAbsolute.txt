@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\bin\Debug\net6.0\Entendendo_Ref.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\bin\Debug\net6.0\Entendendo_Ref.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\bin\Debug\net6.0\Entendendo_Ref.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\bin\Debug\net6.0\Entendendo_Ref.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\bin\Debug\net6.0\Entendendo_Ref.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\obj\Debug\net6.0\Entendendo_Ref.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\obj\Debug\net6.0\Entendendo_Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\obj\Debug\net6.0\Entendendo_Ref.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\obj\Debug\net6.0\Entendendo_Ref.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\obj\Debug\net6.0\Entendendo_Ref.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\obj\Debug\net6.0\Entendendo_Ref.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\obj\Debug\net6.0\refint\Entendendo_Ref.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\obj\Debug\net6.0\Entendendo_Ref.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\obj\Debug\net6.0\Entendendo_Ref.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Ref\obj\Debug\net6.0\ref\Entendendo_Ref.dll
