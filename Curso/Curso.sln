@@ -149,9 +149,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entendo_Vetores", "Entendo_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisando_Vetores_01", "Revisando_Vetores_01\Revisando_Vetores_01.csproj", "{812C82FE-7AE8-4287-A7E6-3FF9CADF6496}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisao_Vetores_02", "Revisao_Vetores_02\Revisao_Vetores_02.csproj", "{F3E0EA88-6F30-4728-AB3B-B48F02038961}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisao_Vetores_02", "Revisao_Vetores_02\Revisao_Vetores_02.csproj", "{F3E0EA88-6F30-4728-AB3B-B48F02038961}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_39", "Exercicio_39\Exercicio_39.csproj", "{0A0CCF99-ED01-4FD2-9CEE-6B4CA1C6D22A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_39", "Exercicio_39\Exercicio_39.csproj", "{0A0CCF99-ED01-4FD2-9CEE-6B4CA1C6D22A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entendendo_Params", "Entendendo_Params\Entendendo_Params.csproj", "{0C0AF5F0-695D-4EA3-822C-5FFEAE019225}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -459,6 +461,10 @@ Global
 		{0A0CCF99-ED01-4FD2-9CEE-6B4CA1C6D22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A0CCF99-ED01-4FD2-9CEE-6B4CA1C6D22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A0CCF99-ED01-4FD2-9CEE-6B4CA1C6D22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0AF5F0-695D-4EA3-822C-5FFEAE019225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0AF5F0-695D-4EA3-822C-5FFEAE019225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0AF5F0-695D-4EA3-822C-5FFEAE019225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0AF5F0-695D-4EA3-822C-5FFEAE019225}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

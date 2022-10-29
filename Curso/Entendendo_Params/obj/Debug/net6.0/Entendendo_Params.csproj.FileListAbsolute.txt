@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\bin\Debug\net6.0\Entendendo_Params.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\bin\Debug\net6.0\Entendendo_Params.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\bin\Debug\net6.0\Entendendo_Params.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\bin\Debug\net6.0\Entendendo_Params.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\bin\Debug\net6.0\Entendendo_Params.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\obj\Debug\net6.0\Entendendo_Params.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\obj\Debug\net6.0\Entendendo_Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\obj\Debug\net6.0\Entendendo_Params.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\obj\Debug\net6.0\Entendendo_Params.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\obj\Debug\net6.0\Entendendo_Params.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\obj\Debug\net6.0\Entendendo_Params.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\obj\Debug\net6.0\refint\Entendendo_Params.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\obj\Debug\net6.0\Entendendo_Params.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\obj\Debug\net6.0\Entendendo_Params.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Params\obj\Debug\net6.0\ref\Entendendo_Params.dll
