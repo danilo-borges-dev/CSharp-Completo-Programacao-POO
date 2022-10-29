@@ -42,16 +42,8 @@ Console.WriteLine(" ");
 
 for (int i = 0; i < 10; i++)
 {
-    string quarto;
-
     if (quartos[i] != null)
     {
-        quarto = quartos[i].Nome;
+        Console.WriteLine($"Quarto nº {i + 1} - {quartos[i].Nome}, {quartos[i].Email}");
     }
-    else
-    {
-        quarto = "Vago";
-    }
-
-    Console.WriteLine($"Quarto nº {i + 1} - {quarto}");
 }
