@@ -6,4 +6,6 @@ int valorStack = 10;
 // o Valor está sendo Salvo na Memória Head - Aqui temos um Boxing
 object valorHead = 10;
 
+// Aqui temos um Unboxing, precisamos fazer um Cast Explícito para ter acesso ao valor 
+// armazenado na Variável valorHead
 int valor = (int)valorHead;

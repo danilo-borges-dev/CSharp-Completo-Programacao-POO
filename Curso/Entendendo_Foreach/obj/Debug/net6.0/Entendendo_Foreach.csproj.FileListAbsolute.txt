@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\bin\Debug\net6.0\Entendendo_Foreach.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\bin\Debug\net6.0\Entendendo_Foreach.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\bin\Debug\net6.0\Entendendo_Foreach.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\bin\Debug\net6.0\Entendendo_Foreach.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\bin\Debug\net6.0\Entendendo_Foreach.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\obj\Debug\net6.0\Entendendo_Foreach.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\obj\Debug\net6.0\Entendendo_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\obj\Debug\net6.0\Entendendo_Foreach.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\obj\Debug\net6.0\Entendendo_Foreach.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\obj\Debug\net6.0\Entendendo_Foreach.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\obj\Debug\net6.0\Entendendo_Foreach.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\obj\Debug\net6.0\refint\Entendendo_Foreach.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\obj\Debug\net6.0\Entendendo_Foreach.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\obj\Debug\net6.0\Entendendo_Foreach.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Foreach\obj\Debug\net6.0\ref\Entendendo_Foreach.dll
