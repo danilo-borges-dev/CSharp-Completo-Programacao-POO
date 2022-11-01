@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\bin\Debug\net6.0\PraticandoCom_Listas.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\bin\Debug\net6.0\PraticandoCom_Listas.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\bin\Debug\net6.0\PraticandoCom_Listas.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\bin\Debug\net6.0\PraticandoCom_Listas.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\bin\Debug\net6.0\PraticandoCom_Listas.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\obj\Debug\net6.0\PraticandoCom_Listas.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\obj\Debug\net6.0\PraticandoCom_Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\obj\Debug\net6.0\PraticandoCom_Listas.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\obj\Debug\net6.0\PraticandoCom_Listas.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\obj\Debug\net6.0\PraticandoCom_Listas.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\obj\Debug\net6.0\PraticandoCom_Listas.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\obj\Debug\net6.0\refint\PraticandoCom_Listas.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\obj\Debug\net6.0\PraticandoCom_Listas.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\obj\Debug\net6.0\PraticandoCom_Listas.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\PraticandoCom_Listas\obj\Debug\net6.0\ref\PraticandoCom_Listas.dll

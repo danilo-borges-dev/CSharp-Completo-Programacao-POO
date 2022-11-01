@@ -165,9 +165,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_40", "Exercicio_4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisando_Params", "Revisando_Params\Revisando_Params.csproj", "{B338739B-F212-44B6-8A48-276BC5A71B0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_41", "Exercicio_41\Exercicio_41.csproj", "{0E87CF3F-336A-443A-9B52-AB3A23979B1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_41", "Exercicio_41\Exercicio_41.csproj", "{0E87CF3F-336A-443A-9B52-AB3A23979B1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_42", "Exercicio_42\Exercicio_42.csproj", "{69390D29-E482-42BC-9A0B-D82345635096}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_42", "Exercicio_42\Exercicio_42.csproj", "{69390D29-E482-42BC-9A0B-D82345635096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraticandoCom_Listas", "PraticandoCom_Listas\PraticandoCom_Listas.csproj", "{F227941D-3BFD-4863-A880-F8B550EC205B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -507,6 +509,10 @@ Global
 		{69390D29-E482-42BC-9A0B-D82345635096}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69390D29-E482-42BC-9A0B-D82345635096}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69390D29-E482-42BC-9A0B-D82345635096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F227941D-3BFD-4863-A880-F8B550EC205B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F227941D-3BFD-4863-A880-F8B550EC205B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F227941D-3BFD-4863-A880-F8B550EC205B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F227941D-3BFD-4863-A880-F8B550EC205B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
