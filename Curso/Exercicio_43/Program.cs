@@ -32,9 +32,10 @@ foreach (var item in listaDeFuncionarios)
     Console.WriteLine($"ID {item.Id} : Nome {item.Nome}, Salário $ {item.Salario.ToString("F2", CultureInfo.InvariantCulture)}");
 }
 
+Console.WriteLine("\nAplicar Aumento no Salário do Funcionário: ");
+
 do
 {
-    Console.WriteLine("\nAplicar Aumento no Salário do Funcionário: ");
     Console.Write("Informe o ID do Funcionário para Aplicar o Aumento: ");
     idFuncionario = int.Parse(Console.ReadLine());
 
@@ -44,10 +45,11 @@ do
         {
             opcao = 'n';
         }
-        else
-        {
-            Console.WriteLine("ID de Funcionário não localizado. Tente novamente.");
-        }
+    }
+
+    if (opcao != 'n')
+    {
+        Console.WriteLine("ID de Funcionário não localizado. Tente novamente.");
     }
 
 } while (opcao == 's');
