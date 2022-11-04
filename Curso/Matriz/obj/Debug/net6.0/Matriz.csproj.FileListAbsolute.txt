@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\bin\Debug\net6.0\Matriz.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\bin\Debug\net6.0\Matriz.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\bin\Debug\net6.0\Matriz.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\bin\Debug\net6.0\Matriz.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\bin\Debug\net6.0\Matriz.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\obj\Debug\net6.0\Matriz.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\obj\Debug\net6.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\obj\Debug\net6.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\obj\Debug\net6.0\Matriz.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\obj\Debug\net6.0\refint\Matriz.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\obj\Debug\net6.0\Matriz.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\obj\Debug\net6.0\Matriz.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Matriz\obj\Debug\net6.0\ref\Matriz.dll
