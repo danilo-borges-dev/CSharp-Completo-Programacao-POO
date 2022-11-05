@@ -9,7 +9,7 @@ double porcentagem = new double();
 bool condicao = true;
 string nomeFuncionario;
 
-List<Funcionario> listaDeFuncionarios = new();
+List<Funcionario> listaDeFuncionarios = new List<Funcionario>();
 
 Console.Write("Informe o Número de Funcionários: ");
 nFuncionarios = int.Parse(Console.ReadLine());
@@ -18,7 +18,7 @@ for (int i = 0; i < nFuncionarios; i++)
 {
     do
     {
-        Console.Write($"\nInforme o ID do {i + 1}º Funcionáriom: ");
+        Console.Write($"\nInforme o ID do {i + 1}º Funcionário: ");
         idFuncionario = int.Parse(Console.ReadLine());
 
         foreach (var item in listaDeFuncionarios)
@@ -34,10 +34,15 @@ for (int i = 0; i < nFuncionarios; i++)
             }
         }
 
+        if (listaDeFuncionarios.Count() == 0)
+        {
+            condicao = false;
+        }
+
     } while (condicao);
     Console.Write("Nome: ");
     nomeFuncionario = Console.ReadLine();
-    Console.WriteLine("Salário $ ");
+    Console.Write("Salário $ ");
     salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
     listaDeFuncionarios.Add(new Funcionario(idFuncionario, nomeFuncionario, salario));
@@ -52,6 +57,7 @@ foreach (var item in listaDeFuncionarios)
 
 do
 {
+    condicao = true;
     Console.Write("\nInforme o ID de um Funcionário para Aumentar o Salário: ");
     idFuncionario = int.Parse(Console.ReadLine());
 
@@ -66,10 +72,23 @@ do
         }
     }
 
-    if (condicao == false)
+    if (condicao == true)
     {
         Console.Write($"ID {idFuncionario} não Localizado, tente novamente!");
-        condicao = true;
+    }
+    else
+    {
+        Console.WriteLine("Aumento de Salário Realizado com Sucesso.");
+
+        foreach (Funcionario item in listaDeFuncionarios)
+        {
+            if (item.Id == idFuncionario)
+            {
+                Console.WriteLine($"ID {item.Id}# Nome: {item.Nome}, Salário $ {item.Salario.ToString("F2", CultureInfo.InvariantCulture)}");
+            }
+        }
     }
 
 } while (condicao);
+
+Console.WriteLine("\nFim do Programa.");
