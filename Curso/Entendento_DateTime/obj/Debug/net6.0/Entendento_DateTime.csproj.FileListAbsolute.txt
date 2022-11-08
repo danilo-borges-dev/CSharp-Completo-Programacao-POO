@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\bin\Debug\net6.0\Entendento_DateTime.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\bin\Debug\net6.0\Entendento_DateTime.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\bin\Debug\net6.0\Entendento_DateTime.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\bin\Debug\net6.0\Entendento_DateTime.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\bin\Debug\net6.0\Entendento_DateTime.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\obj\Debug\net6.0\Entendento_DateTime.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\obj\Debug\net6.0\Entendento_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\obj\Debug\net6.0\Entendento_DateTime.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\obj\Debug\net6.0\Entendento_DateTime.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\obj\Debug\net6.0\Entendento_DateTime.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\obj\Debug\net6.0\Entendento_DateTime.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\obj\Debug\net6.0\refint\Entendento_DateTime.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\obj\Debug\net6.0\Entendento_DateTime.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\obj\Debug\net6.0\Entendento_DateTime.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendento_DateTime\obj\Debug\net6.0\ref\Entendento_DateTime.dll
