@@ -193,6 +193,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_50", "Exercicio_5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inferencia_de_tipo", "Inferencia_de_tipo\Inferencia_de_tipo.csproj", "{D0B204A3-03E9-4A7E-A753-0B125E9BCBE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos_String", "Metodos_String\Metodos_String.csproj", "{FBAE96AF-FE7D-4910-91C5-4666DA9A401A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -579,6 +581,10 @@ Global
 		{D0B204A3-03E9-4A7E-A753-0B125E9BCBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0B204A3-03E9-4A7E-A753-0B125E9BCBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0B204A3-03E9-4A7E-A753-0B125E9BCBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBAE96AF-FE7D-4910-91C5-4666DA9A401A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAE96AF-FE7D-4910-91C5-4666DA9A401A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAE96AF-FE7D-4910-91C5-4666DA9A401A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAE96AF-FE7D-4910-91C5-4666DA9A401A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
