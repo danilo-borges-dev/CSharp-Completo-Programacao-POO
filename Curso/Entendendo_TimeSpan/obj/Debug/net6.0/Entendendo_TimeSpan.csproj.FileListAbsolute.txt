@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\bin\Debug\net6.0\Entendendo_TimeSpan.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\bin\Debug\net6.0\Entendendo_TimeSpan.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\bin\Debug\net6.0\Entendendo_TimeSpan.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\bin\Debug\net6.0\Entendendo_TimeSpan.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\bin\Debug\net6.0\Entendendo_TimeSpan.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\obj\Debug\net6.0\Entendendo_TimeSpan.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\obj\Debug\net6.0\Entendendo_TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\obj\Debug\net6.0\Entendendo_TimeSpan.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\obj\Debug\net6.0\Entendendo_TimeSpan.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\obj\Debug\net6.0\Entendendo_TimeSpan.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\obj\Debug\net6.0\Entendendo_TimeSpan.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\obj\Debug\net6.0\refint\Entendendo_TimeSpan.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\obj\Debug\net6.0\Entendendo_TimeSpan.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\obj\Debug\net6.0\Entendendo_TimeSpan.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_TimeSpan\obj\Debug\net6.0\ref\Entendendo_TimeSpan.dll

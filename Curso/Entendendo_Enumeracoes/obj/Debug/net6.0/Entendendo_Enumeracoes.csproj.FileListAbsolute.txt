@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\bin\Debug\net6.0\Entendendo_Enumeracoes.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\bin\Debug\net6.0\Entendendo_Enumeracoes.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\bin\Debug\net6.0\Entendendo_Enumeracoes.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\bin\Debug\net6.0\Entendendo_Enumeracoes.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\bin\Debug\net6.0\Entendendo_Enumeracoes.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\obj\Debug\net6.0\Entendendo_Enumeracoes.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\obj\Debug\net6.0\Entendendo_Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\obj\Debug\net6.0\Entendendo_Enumeracoes.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\obj\Debug\net6.0\Entendendo_Enumeracoes.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\obj\Debug\net6.0\Entendendo_Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\obj\Debug\net6.0\Entendendo_Enumeracoes.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\obj\Debug\net6.0\refint\Entendendo_Enumeracoes.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\obj\Debug\net6.0\Entendendo_Enumeracoes.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\obj\Debug\net6.0\Entendendo_Enumeracoes.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendendo_Enumeracoes\obj\Debug\net6.0\ref\Entendendo_Enumeracoes.dll
