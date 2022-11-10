@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\bin\Debug\net6.0\Revisando_Enums.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\bin\Debug\net6.0\Revisando_Enums.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\bin\Debug\net6.0\Revisando_Enums.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\bin\Debug\net6.0\Revisando_Enums.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\bin\Debug\net6.0\Revisando_Enums.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\obj\Debug\net6.0\Revisando_Enums.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\obj\Debug\net6.0\Revisando_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\obj\Debug\net6.0\Revisando_Enums.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\obj\Debug\net6.0\Revisando_Enums.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\obj\Debug\net6.0\Revisando_Enums.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\obj\Debug\net6.0\Revisando_Enums.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\obj\Debug\net6.0\refint\Revisando_Enums.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\obj\Debug\net6.0\Revisando_Enums.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\obj\Debug\net6.0\Revisando_Enums.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Enums\obj\Debug\net6.0\ref\Revisando_Enums.dll
