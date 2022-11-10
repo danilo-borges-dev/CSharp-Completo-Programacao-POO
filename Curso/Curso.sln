@@ -201,9 +201,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entendendo_TimeSpan", "Ente
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entendendo_Enumeracoes", "Entendendo_Enumeracoes\Entendendo_Enumeracoes.csproj", "{8327BF47-B977-42E6-9E78-D4AB73DE9B00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisando_Enums", "Revisando_Enums\Revisando_Enums.csproj", "{78CC9347-E933-4709-95BB-254241283DAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisando_Enums", "Revisando_Enums\Revisando_Enums.csproj", "{78CC9347-E933-4709-95BB-254241283DAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisando_Arrays_2", "Revisando_Arrays_2\Revisando_Arrays_2.csproj", "{541E3B24-63CD-47BF-8698-46AF1865D6C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Revisando_Arrays_2", "Revisando_Arrays_2\Revisando_Arrays_2.csproj", "{541E3B24-63CD-47BF-8698-46AF1865D6C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_51", "Exercicio_51\Exercicio_51.csproj", "{7D7A7C4F-D9E3-4EB3-9269-4EA40F8374CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -615,6 +617,10 @@ Global
 		{541E3B24-63CD-47BF-8698-46AF1865D6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{541E3B24-63CD-47BF-8698-46AF1865D6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{541E3B24-63CD-47BF-8698-46AF1865D6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D7A7C4F-D9E3-4EB3-9269-4EA40F8374CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7A7C4F-D9E3-4EB3-9269-4EA40F8374CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7A7C4F-D9E3-4EB3-9269-4EA40F8374CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7A7C4F-D9E3-4EB3-9269-4EA40F8374CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
