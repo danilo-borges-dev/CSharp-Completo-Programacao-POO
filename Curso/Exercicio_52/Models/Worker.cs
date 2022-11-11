@@ -7,6 +7,7 @@ namespace Exercicio_52.Models
         public string Name { get; private set; }
         public WorkerLevel Level { get; private set; } = new WorkerLevel();
         public double BaseSalary { get; private set; } = new double();
+        public Department Department { get; set; }  // Nesta Linha temos uma composição de Objetos
 
         public Worker(string name, WorkerLevel level, double baseSalary)
         {

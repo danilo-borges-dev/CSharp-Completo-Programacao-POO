@@ -2,7 +2,7 @@
 {
     internal class HourContract
     {
-        public DateTime Date { get; private set; } = new();
+        public DateTime Date { get; private set; } = new DateTime();
         public double ValuePerHour { get; private set; } = new double();
         public int Hours { get; private set; } = new int();
 
