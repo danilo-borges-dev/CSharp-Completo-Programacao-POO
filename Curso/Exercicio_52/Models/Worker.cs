@@ -9,17 +9,12 @@ namespace Exercicio_52.Models
         public WorkerLevel Level { get; private set; } = new WorkerLevel();
         public double BaseSalary { get; private set; } = new double();
 
-<<<<<<< HEAD
+
         // Aqui temos Duas Compósições de Objetos ----------------------------------
         public Department Department { get; set; }  
         public List<HourContract> Contracts { get; set; } = new List<HourContract>();
         // --------------------------------------------------------------------------
-=======
-        // Aqui temos composições de Objetos ------------------------------------------------------
-        public Department Department { get; set; }                 
-        public List<HourContract> Contracts { get; set; } = new List<HourContract>();
-        // ----------------------------------------------------------------------------------------
->>>>>>> ffb41e90af49c52c91dd17a5afbf4c4f07d0cf14
+
 
         public Worker(string name, WorkerLevel level, double baseSalary, Department department)
         {

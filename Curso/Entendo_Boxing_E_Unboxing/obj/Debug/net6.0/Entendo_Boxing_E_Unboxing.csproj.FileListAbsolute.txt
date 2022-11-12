@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\bin\Debug\net6.0\Entendo_Boxing_E_Unboxing.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\bin\Debug\net6.0\Entendo_Boxing_E_Unboxing.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\bin\Debug\net6.0\Entendo_Boxing_E_Unboxing.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\bin\Debug\net6.0\Entendo_Boxing_E_Unboxing.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\bin\Debug\net6.0\Entendo_Boxing_E_Unboxing.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\obj\Debug\net6.0\Entendo_Boxing_E_Unboxing.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\obj\Debug\net6.0\Entendo_Boxing_E_Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\obj\Debug\net6.0\Entendo_Boxing_E_Unboxing.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\obj\Debug\net6.0\Entendo_Boxing_E_Unboxing.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\obj\Debug\net6.0\Entendo_Boxing_E_Unboxing.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\obj\Debug\net6.0\Entendo_Boxing_E_Unboxing.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\obj\Debug\net6.0\refint\Entendo_Boxing_E_Unboxing.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\obj\Debug\net6.0\Entendo_Boxing_E_Unboxing.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\obj\Debug\net6.0\Entendo_Boxing_E_Unboxing.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Boxing_E_Unboxing\obj\Debug\net6.0\ref\Entendo_Boxing_E_Unboxing.dll

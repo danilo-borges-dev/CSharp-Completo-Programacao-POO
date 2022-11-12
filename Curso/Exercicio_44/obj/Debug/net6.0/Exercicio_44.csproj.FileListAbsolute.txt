@@ -1,0 +1,5 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_44\obj\Debug\net6.0\Exercicio_44.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_44\obj\Debug\net6.0\Exercicio_44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_44\obj\Debug\net6.0\Exercicio_44.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_44\obj\Debug\net6.0\Exercicio_44.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_44\obj\Debug\net6.0\Exercicio_44.csproj.CoreCompileInputs.cache

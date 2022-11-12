@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\bin\Debug\net6.0\Inferencia_de_tipo.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\bin\Debug\net6.0\Inferencia_de_tipo.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\bin\Debug\net6.0\Inferencia_de_tipo.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\bin\Debug\net6.0\Inferencia_de_tipo.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\bin\Debug\net6.0\Inferencia_de_tipo.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\obj\Debug\net6.0\Inferencia_de_tipo.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\obj\Debug\net6.0\Inferencia_de_tipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\obj\Debug\net6.0\Inferencia_de_tipo.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\obj\Debug\net6.0\Inferencia_de_tipo.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\obj\Debug\net6.0\Inferencia_de_tipo.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\obj\Debug\net6.0\Inferencia_de_tipo.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\obj\Debug\net6.0\refint\Inferencia_de_tipo.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\obj\Debug\net6.0\Inferencia_de_tipo.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\obj\Debug\net6.0\Inferencia_de_tipo.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Inferencia_de_tipo\obj\Debug\net6.0\ref\Inferencia_de_tipo.dll
