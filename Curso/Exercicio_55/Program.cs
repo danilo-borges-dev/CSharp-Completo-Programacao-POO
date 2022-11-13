@@ -63,7 +63,7 @@ for (int i = 0; i < nContracts; i++)
 Console.Write("\nEnter moth and year to calculete income (MM/YYYY): ");
 dateMonthYear = Console.ReadLine();
 
-month = int.Parse(dateMonthYear.Substring(0, 2));
+month = int.Parse(dateMonthYear.Substring(0, 2)); // Pirmeiro elemento é inclusivo, segundo elemento é exclusivo
 year = int.Parse(dateMonthYear.Substring(3));
 
 Console.WriteLine($"\nName: {worker.Name}");
