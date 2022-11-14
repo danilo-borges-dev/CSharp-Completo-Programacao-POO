@@ -15,3 +15,5 @@ post2.AddComment(c3);
 post2.AddComment(c4);
 
 
+Console.WriteLine(post1);
+Console.WriteLine(post2);

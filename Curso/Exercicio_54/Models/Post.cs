@@ -5,8 +5,8 @@ namespace Exercicio_54.Models
     internal class Post
     {
         public DateTime Moment { get; private set; } = new DateTime();
-        public string Title { get; private set; } 
         public int Likes { get; private set; } = new int();
+        public string Title { get; private set; } 
         public string Content { get; private set; }
 
         public List<Comment> Comments = new List<Comment>();
