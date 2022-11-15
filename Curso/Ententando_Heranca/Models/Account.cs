@@ -13,11 +13,11 @@
             Holder = holder;
         }
 
-        public void Withdraw(double amount)
+        public virtual void Withdraw(double amount)
         {
             if (amount <= Balance)
             {
-                Balance -= amount;
+                Balance -= amount + 5.0;
             }
         }
 
