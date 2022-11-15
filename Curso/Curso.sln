@@ -225,9 +225,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_58", "Exercicio_5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_59", "Exercicio_59\Exercicio_59.csproj", "{F35087F9-B76A-4DC6-B9B6-877C2FF51BCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ententando_Heranca", "Ententando_Heranca\Ententando_Heranca.csproj", "{5E752E5F-4968-4A64-8AF7-7C5C974DC5BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ententando_Heranca", "Ententando_Heranca\Ententando_Heranca.csproj", "{5E752E5F-4968-4A64-8AF7-7C5C974DC5BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_60", "Exercicio_60\Exercicio_60.csproj", "{A101F072-BB1A-4C99-BDE3-66ED95D190FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_60", "Exercicio_60\Exercicio_60.csproj", "{A101F072-BB1A-4C99-BDE3-66ED95D190FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_61", "Exercicio_61\Exercicio_61.csproj", "{A17FF279-64AF-4535-A879-9C68BA63ABEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -687,6 +689,10 @@ Global
 		{A101F072-BB1A-4C99-BDE3-66ED95D190FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A101F072-BB1A-4C99-BDE3-66ED95D190FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A101F072-BB1A-4C99-BDE3-66ED95D190FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A17FF279-64AF-4535-A879-9C68BA63ABEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17FF279-64AF-4535-A879-9C68BA63ABEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17FF279-64AF-4535-A879-9C68BA63ABEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17FF279-64AF-4535-A879-9C68BA63ABEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
