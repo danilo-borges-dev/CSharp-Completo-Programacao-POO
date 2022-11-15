@@ -1,6 +1,6 @@
 ﻿namespace Ententando_Heranca.Models
 {
-    internal class SavingsAccount : Account
+    internal sealed class SavingsAccount : Account
     {
         public double InterestRate { get; private set; } = new double();
 
@@ -14,8 +14,9 @@
             Balance += Balance * InterestRate;
         }
 
-        public override void Withdraw(double amount)
+        public sealed override void Withdraw(double amount)
         {
+            base.Withdraw(amount);
             Balance -= amount;
         }
     }
