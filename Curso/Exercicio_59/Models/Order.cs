@@ -54,7 +54,7 @@ namespace Exercicio_54.Models
             sb.Append("Client: ");
             sb.Append(Client.Name);
             sb.Append(" (");
-            sb.Append(Client.BirthDate);
+            sb.Append(Client.BirthDate.ToString("dd/MM/yyyy"));
             sb.Append(") - ");
             sb.AppendLine(Client.Email);
 

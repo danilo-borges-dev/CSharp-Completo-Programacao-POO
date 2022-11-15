@@ -10,7 +10,7 @@ int qtdOrders = new int();
 string produtcName;
 double productPrice = new double();
 OrderStatus orderStatus = new OrderStatus();
-string birthDate;
+DateTime birthDate = new DateTime();
 
 Client client;
 Order order;
@@ -22,13 +22,9 @@ clientName = Console.ReadLine();
 Console.Write("Email: ");
 clientEmail = Console.ReadLine();
 Console.Write("Birth Date (DD/MM/YYYY): ");
-birthDate = Console.ReadLine();
+birthDate = DateTime.Parse(Console.ReadLine());
 
-int day = int.Parse(birthDate.Substring(0,2));
-int month = int.Parse(birthDate.Substring(3, 2));
-int year = int.Parse(birthDate.Substring(6));
-
-client = new Client(clientName, clientEmail, new DateTime( year, month, day));
+client = new Client(clientName, clientEmail, birthDate);
 
 Console.Write("\nEnter order data (1 - Pending Payment | 2 - Processing | 3 - Shipped | 4 - Delivered ) : ");
 statusOrder = int.Parse(Console.ReadLine());
@@ -69,3 +65,4 @@ for (int i = 0; i < qtdOrders; i++)
 }
 
 Console.WriteLine(order);
+
