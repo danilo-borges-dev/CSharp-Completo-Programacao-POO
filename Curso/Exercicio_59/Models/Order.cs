@@ -1,5 +1,7 @@
 ﻿using Exercicio_54.Models.Enums;
+using System.Globalization;
 using System.Reflection.Metadata.Ecma335;
+using System.Text;
 
 namespace Exercicio_54.Models
 {
@@ -8,7 +10,7 @@ namespace Exercicio_54.Models
         public DateTime Moment { get; private set; } = new DateTime();
         public OrderStatus Status { get; private set; } = new OrderStatus();
 
-        Client client = null;
+        public Client Client { get; private set; }
 
         List<OrderItem> OrderItemList = new List<OrderItem>();
 
@@ -16,7 +18,7 @@ namespace Exercicio_54.Models
         {
             Moment = moment;
             Status = status;
-            this.client = client;
+            Client = client;
         }
 
         public void AddItem(OrderItem item)
@@ -38,6 +40,37 @@ namespace Exercicio_54.Models
             }
 
             return total;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new();
+
+            sb.AppendLine("ORDER SUMMARY:");
+            sb.Append("Order moment: ");
+            sb.AppendLine(Moment.ToString());
+            sb.Append("Order status: ");
+            sb.AppendLine(Status.ToString());
+            sb.Append("Client: ");
+            sb.Append(Client.Name);
+            sb.Append(" (");
+            sb.Append(Client.BirthDate);
+            sb.Append(") - ");
+            sb.AppendLine(Client.Email);
+
+            sb.AppendLine("Order items: ");
+            foreach (OrderItem order in OrderItemList)
+            {
+                sb.Append(order.Product.Name);
+                sb.Append(", Quantity: ");
+                sb.Append(order.Quantity);
+                sb.Append(", Subtotal: $");
+                sb.AppendLine(order.SubTotal().ToString("F2", CultureInfo.InvariantCulture));
+            }
+            sb.Append("Total price: $");
+            sb.AppendLine(Total().ToString("F2", CultureInfo.InvariantCulture));
+
+            return sb.ToString();
         }
     }
 }

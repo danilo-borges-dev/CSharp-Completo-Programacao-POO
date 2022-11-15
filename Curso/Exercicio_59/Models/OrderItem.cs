@@ -5,7 +5,7 @@
         public int Quantity { get; set; } = new int();
         public double Price { get; private set; } = new int();
 
-        Product Product { get; set; }
+        public Product Product { get; private set; }
 
         public OrderItem(int quantity, double price, Product product)
         {

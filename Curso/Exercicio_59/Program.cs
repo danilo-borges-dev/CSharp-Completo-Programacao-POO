@@ -6,10 +6,11 @@ string clientName;
 string clientEmail;
 int statusOrder = new int();
 int qtdItems = new int();
+int qtdOrders = new int();
 string produtcName;
 double productPrice = new double();
 OrderStatus orderStatus = new OrderStatus();
-DateTime birthDate = new DateTime();
+string birthDate;
 
 Client client;
 Order order;
@@ -21,11 +22,15 @@ clientName = Console.ReadLine();
 Console.Write("Email: ");
 clientEmail = Console.ReadLine();
 Console.Write("Birth Date (DD/MM/YYYY): ");
-birthDate = DateTime.Parse(Console.ReadLine());
+birthDate = Console.ReadLine();
 
-client = new Client(clientName, clientEmail, birthDate);
+int day = int.Parse(birthDate.Substring(0,2));
+int month = int.Parse(birthDate.Substring(3, 2));
+int year = int.Parse(birthDate.Substring(6));
 
-Console.WriteLine("\nEnter order data (1 - Pending Payment | 2 - Processing | 3 - Shipped | 4 - Delivered ) : ");
+client = new Client(clientName, clientEmail, new DateTime( year, month, day));
+
+Console.Write("\nEnter order data (1 - Pending Payment | 2 - Processing | 3 - Shipped | 4 - Delivered ) : ");
 statusOrder = int.Parse(Console.ReadLine());
 
 if (statusOrder == 1)
@@ -48,9 +53,9 @@ else
 order = new Order(DateTime.Now, orderStatus, client);
 
 Console.Write("How many items to this order? ");
-qtdItems = int.Parse(Console.ReadLine());
+qtdOrders = int.Parse(Console.ReadLine());
 
-for (int i = 0; i < qtdItems; i++)
+for (int i = 0; i < qtdOrders; i++)
 {
     Console.Write($"\nEnter #{i + 1} item data: ");
     Console.Write("Product name: ");
@@ -62,3 +67,5 @@ for (int i = 0; i < qtdItems; i++)
 
     order.AddItem(new OrderItem(qtdItems, productPrice, new Product(produtcName, productPrice)));
 }
+
+Console.WriteLine(order);
