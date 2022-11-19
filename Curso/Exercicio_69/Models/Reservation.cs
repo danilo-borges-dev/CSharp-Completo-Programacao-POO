@@ -21,7 +21,7 @@
 
         public override string ToString()
         {
-            return $"Room: {RoomNumber}, chech-in: {CheckIn.ToString("dd/MM/YYYY")}, check-out: {CheckOut.ToString("dd/MM/yyyy")}, {Duration()} nigths.";
+            return $"Room: {RoomNumber}, chech-in: {CheckIn.ToString("dd/MM/yyyy")}, check-out: {CheckOut.ToString("dd/MM/yyyy")}, {Duration()} nigths.";
         }
     }
 }
