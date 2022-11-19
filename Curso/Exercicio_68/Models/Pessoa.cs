@@ -11,6 +11,6 @@
             RendaAnual = rendaAnual;
         }
 
-        public abstract double CalcularImposto(out double impostoArrecadado);
+        public abstract double CalcularImposto();
     }
 }

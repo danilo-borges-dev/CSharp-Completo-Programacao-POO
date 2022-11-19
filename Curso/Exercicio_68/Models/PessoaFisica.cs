@@ -9,29 +9,26 @@
             GastosSaude = gastosSaude;
         }
 
-        public override double CalcularImposto(out double impostoArrecadado)
+        public override double CalcularImposto()
         {
             if (RendaAnual < 20_000)
             {
                 if (GastosSaude > 0)
                 {
-                    impostoArrecadado = ((RendaAnual * 15 / 100) - GastosSaude * 50 / 100);
-                    return RendaAnual -= ((RendaAnual * 15 / 100) -  GastosSaude * 50/100);
+                    return ((RendaAnual * 15 / 100) -  GastosSaude * 50/100);
                 }
                 else
                 {
-                    impostoArrecadado = (RendaAnual * 15 / 100);
-                    return RendaAnual -= (RendaAnual * 15 / 100);
+                    return (RendaAnual * 15 / 100);
                 }
             }
 
             if (RendaAnual > 20_000 && GastosSaude > 0)
             {
-                impostoArrecadado = ((RendaAnual * 25 / 100) - GastosSaude * 50 / 100);
-                return RendaAnual -= ((RendaAnual * 25 / 100) - GastosSaude * 50 / 100);
+                double result = ((RendaAnual * 25 / 100) - GastosSaude * 50 / 100);
+                return result;
             }
-            impostoArrecadado = (RendaAnual * 25 / 100);
-            return RendaAnual -= (RendaAnual * 25 / 100);
+            return (RendaAnual * 25 / 100);
         }
     }
 }

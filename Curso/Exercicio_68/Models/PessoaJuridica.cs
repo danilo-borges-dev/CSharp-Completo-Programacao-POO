@@ -9,15 +9,13 @@
             NumeroFuncionarios = numeroFuncionarios;
         }
 
-        public override double CalcularImposto(out double impostoArrecadado)
+        public override double CalcularImposto()
         {
             if (NumeroFuncionarios > 10)
             {
-                impostoArrecadado = RendaAnual * 14 / 100;
-                return RendaAnual -= RendaAnual * 14 / 100;
+                return(RendaAnual * 14 / 100);
             }
-            impostoArrecadado = RendaAnual * 14 / 100;
-            return RendaAnual -= RendaAnual * 16 / 100;
+            return (RendaAnual * 16 / 100);
         }
     }
 }

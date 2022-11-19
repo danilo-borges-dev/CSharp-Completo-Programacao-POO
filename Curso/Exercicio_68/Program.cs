@@ -6,6 +6,7 @@ double rendaAnual = new double();
 char tipoPessoa = new char();
 double gastosSaude = new double();
 int nFuncionarios = new int();
+double valorTotalDeImpostoPago = new double();
 string nome;
 
 List<Pessoa> pessoaLista = new List<Pessoa>();
@@ -20,7 +21,7 @@ for (int i = 0; i < nContribuintes; i++)
     nome = Console.ReadLine();
     Console.Write("Renda anual $ ");
     rendaAnual = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-    Console.Write("Pessoa Física ou Jurídica (f/r): ");
+    Console.Write("Pessoa Física ou Jurídica (f/j): ");
     tipoPessoa = char.Parse(Console.ReadLine());
 
     if (tipoPessoa == 'f' || tipoPessoa == 'F')
@@ -39,3 +40,11 @@ for (int i = 0; i < nContribuintes; i++)
     }
 }
 
+Console.WriteLine("\nTAXES PAID:");
+foreach (Pessoa pessoa in pessoaLista)
+{
+    valorTotalDeImpostoPago += pessoa.CalcularImposto();
+    Console.WriteLine($"{pessoa.Nome}: $ {pessoa.CalcularImposto().ToString("F2", CultureInfo.InvariantCulture)}");     
+}
+
+Console.WriteLine($"TOTAL TAXES: $ {valorTotalDeImpostoPago.ToString("F2", CultureInfo.InvariantCulture)}");
