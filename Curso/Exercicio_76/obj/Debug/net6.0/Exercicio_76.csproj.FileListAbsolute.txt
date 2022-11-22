@@ -3,3 +3,13 @@ C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\obj\Debug\net6.0
 C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\obj\Debug\net6.0\Exercicio_76.AssemblyInfoInputs.cache
 C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\obj\Debug\net6.0\Exercicio_76.AssemblyInfo.cs
 C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\obj\Debug\net6.0\Exercicio_76.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\bin\Debug\net6.0\Exercicio_76.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\bin\Debug\net6.0\Exercicio_76.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\bin\Debug\net6.0\Exercicio_76.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\bin\Debug\net6.0\Exercicio_76.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\bin\Debug\net6.0\Exercicio_76.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\obj\Debug\net6.0\Exercicio_76.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\obj\Debug\net6.0\refint\Exercicio_76.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\obj\Debug\net6.0\Exercicio_76.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\obj\Debug\net6.0\Exercicio_76.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_76\obj\Debug\net6.0\ref\Exercicio_76.dll
