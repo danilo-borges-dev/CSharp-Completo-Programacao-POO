@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\bin\Debug\net6.0\Xadrez_Console.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\bin\Debug\net6.0\Xadrez_Console.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\bin\Debug\net6.0\Xadrez_Console.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\bin\Debug\net6.0\Xadrez_Console.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\bin\Debug\net6.0\Xadrez_Console.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\obj\Debug\net6.0\refint\Xadrez_Console.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\obj\Debug\net6.0\Xadrez_Console.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Xadrez_Console\obj\Debug\net6.0\ref\Xadrez_Console.dll
