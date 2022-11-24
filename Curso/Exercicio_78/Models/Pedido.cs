@@ -12,6 +12,13 @@ namespace Exercicio_78.Models
 
         public List<PedidoItem> listaDePedidos = new List<PedidoItem>();
 
+        public Pedido(DateTime momentoPedido, StatusPedido status, Cliente cliente)
+        {
+            MomentoPedido = momentoPedido;
+            Status = status;
+            Cliente = cliente;
+        }
+
         public void AddPedidoItem(PedidoItem pedidoItem)
         {
             listaDePedidos.Add(pedidoItem);
