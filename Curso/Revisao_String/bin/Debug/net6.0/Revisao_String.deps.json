@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Revisao_String/1.0.0": {
+        "runtime": {
+          "Revisao_String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revisao_String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
