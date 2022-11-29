@@ -1,6 +1,6 @@
-﻿using Xadrez_Console.Tabuleiro.Enums;
+﻿using Xadrez_Console.Tabuleiros.Enums;
 
-namespace Xadrez_Console.Tabuleiro
+namespace Xadrez_Console.Tabuleiros
 {
     internal class Peca
     {

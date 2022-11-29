@@ -1,4 +1,4 @@
-﻿namespace Xadrez_Console.Tabuleiro.Enums
+﻿namespace Xadrez_Console.Tabuleiros.Enums
 {
     internal enum Cor : int
     {

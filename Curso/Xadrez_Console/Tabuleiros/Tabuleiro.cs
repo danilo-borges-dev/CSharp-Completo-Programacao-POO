@@ -1,4 +1,4 @@
-﻿namespace Xadrez_Console.Tabuleiro
+﻿namespace Xadrez_Console.Tabuleiros
 {
     internal class Tabuleiro
     {
@@ -11,6 +11,11 @@
             Linhas = linhas;
             Colunas = colunas;
             _pecas = new Peca[Linhas, Colunas];
+        }
+
+        public Peca Peca(int linha, int coluna)
+        {
+            return _pecas[linha, coluna];
         }
     }
 }

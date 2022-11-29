@@ -1,4 +1,5 @@
-﻿using Xadrez_Console.Tabuleiro;
+﻿using Xadrez_Console;
+using Xadrez_Console.Tabuleiros;
 
-Posicao p = new(10, 5);
-Console.WriteLine(p);
+Tabuleiro tab = new(8,8);
+Tela.ImprimirTabuleiro(tab);

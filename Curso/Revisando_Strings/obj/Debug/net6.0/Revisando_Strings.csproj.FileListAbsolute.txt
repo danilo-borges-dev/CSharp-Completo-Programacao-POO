@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\bin\Debug\net6.0\Revisando_Strings.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\bin\Debug\net6.0\Revisando_Strings.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\bin\Debug\net6.0\Revisando_Strings.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\bin\Debug\net6.0\Revisando_Strings.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\bin\Debug\net6.0\Revisando_Strings.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\obj\Debug\net6.0\Revisando_Strings.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\obj\Debug\net6.0\Revisando_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\obj\Debug\net6.0\Revisando_Strings.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\obj\Debug\net6.0\Revisando_Strings.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\obj\Debug\net6.0\Revisando_Strings.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\obj\Debug\net6.0\Revisando_Strings.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\obj\Debug\net6.0\refint\Revisando_Strings.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\obj\Debug\net6.0\Revisando_Strings.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\obj\Debug\net6.0\Revisando_Strings.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Revisando_Strings\obj\Debug\net6.0\ref\Revisando_Strings.dll
