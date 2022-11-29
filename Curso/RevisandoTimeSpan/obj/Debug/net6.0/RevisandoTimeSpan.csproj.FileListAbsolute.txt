@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\bin\Debug\net6.0\RevisandoTimeSpan.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\bin\Debug\net6.0\RevisandoTimeSpan.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\bin\Debug\net6.0\RevisandoTimeSpan.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\bin\Debug\net6.0\RevisandoTimeSpan.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\bin\Debug\net6.0\RevisandoTimeSpan.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\obj\Debug\net6.0\RevisandoTimeSpan.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\obj\Debug\net6.0\RevisandoTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\obj\Debug\net6.0\RevisandoTimeSpan.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\obj\Debug\net6.0\RevisandoTimeSpan.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\obj\Debug\net6.0\RevisandoTimeSpan.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\obj\Debug\net6.0\RevisandoTimeSpan.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\obj\Debug\net6.0\refint\RevisandoTimeSpan.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\obj\Debug\net6.0\RevisandoTimeSpan.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\obj\Debug\net6.0\RevisandoTimeSpan.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\RevisandoTimeSpan\obj\Debug\net6.0\ref\RevisandoTimeSpan.dll
