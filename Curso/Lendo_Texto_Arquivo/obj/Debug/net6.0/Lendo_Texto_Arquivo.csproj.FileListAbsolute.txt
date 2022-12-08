@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\bin\Debug\net6.0\Lendo_Texto_Arquivo.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\bin\Debug\net6.0\Lendo_Texto_Arquivo.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\bin\Debug\net6.0\Lendo_Texto_Arquivo.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\bin\Debug\net6.0\Lendo_Texto_Arquivo.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\bin\Debug\net6.0\Lendo_Texto_Arquivo.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\obj\Debug\net6.0\Lendo_Texto_Arquivo.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\obj\Debug\net6.0\Lendo_Texto_Arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\obj\Debug\net6.0\Lendo_Texto_Arquivo.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\obj\Debug\net6.0\Lendo_Texto_Arquivo.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\obj\Debug\net6.0\Lendo_Texto_Arquivo.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\obj\Debug\net6.0\Lendo_Texto_Arquivo.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\obj\Debug\net6.0\refint\Lendo_Texto_Arquivo.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\obj\Debug\net6.0\Lendo_Texto_Arquivo.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\obj\Debug\net6.0\Lendo_Texto_Arquivo.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Lendo_Texto_Arquivo\obj\Debug\net6.0\ref\Lendo_Texto_Arquivo.dll

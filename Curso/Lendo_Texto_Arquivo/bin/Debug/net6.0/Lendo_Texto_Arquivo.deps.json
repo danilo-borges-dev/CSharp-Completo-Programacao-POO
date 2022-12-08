@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lendo_Texto_Arquivo/1.0.0": {
+        "runtime": {
+          "Lendo_Texto_Arquivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lendo_Texto_Arquivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
