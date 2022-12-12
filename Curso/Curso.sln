@@ -301,7 +301,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_90", "Exercicio_9
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManipulandoArquivos", "ManipulandoArquivos\ManipulandoArquivos.csproj", "{479A2915-5191-454E-B0CB-CF7D4270AE61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_91", "Exercicio_91\Exercicio_91.csproj", "{2FACA800-6C0D-4D43-9DE8-618C67FD786B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_91", "Exercicio_91\Exercicio_91.csproj", "{2FACA800-6C0D-4D43-9DE8-618C67FD786B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_92", "Exercicio_92\Exercicio_92.csproj", "{CD37C277-D56E-4DF4-9F67-0C063F68E1F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -909,6 +911,10 @@ Global
 		{2FACA800-6C0D-4D43-9DE8-618C67FD786B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FACA800-6C0D-4D43-9DE8-618C67FD786B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FACA800-6C0D-4D43-9DE8-618C67FD786B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD37C277-D56E-4DF4-9F67-0C063F68E1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD37C277-D56E-4DF4-9F67-0C063F68E1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD37C277-D56E-4DF4-9F67-0C063F68E1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD37C277-D56E-4DF4-9F67-0C063F68E1F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
