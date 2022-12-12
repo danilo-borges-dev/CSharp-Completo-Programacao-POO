@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\bin\Debug\net6.0\ManipulandoArquivos.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\bin\Debug\net6.0\ManipulandoArquivos.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\bin\Debug\net6.0\ManipulandoArquivos.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\bin\Debug\net6.0\ManipulandoArquivos.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\bin\Debug\net6.0\ManipulandoArquivos.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\obj\Debug\net6.0\ManipulandoArquivos.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\obj\Debug\net6.0\ManipulandoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\obj\Debug\net6.0\ManipulandoArquivos.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\obj\Debug\net6.0\ManipulandoArquivos.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\obj\Debug\net6.0\ManipulandoArquivos.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\obj\Debug\net6.0\ManipulandoArquivos.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\obj\Debug\net6.0\refint\ManipulandoArquivos.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\obj\Debug\net6.0\ManipulandoArquivos.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\obj\Debug\net6.0\ManipulandoArquivos.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\ManipulandoArquivos\obj\Debug\net6.0\ref\ManipulandoArquivos.dll
