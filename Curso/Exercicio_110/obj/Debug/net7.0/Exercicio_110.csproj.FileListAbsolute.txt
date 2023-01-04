@@ -1,0 +1,15 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\bin\Debug\net7.0\Exercicio_110.exe
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\bin\Debug\net7.0\Exercicio_110.deps.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\bin\Debug\net7.0\Exercicio_110.runtimeconfig.json
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\bin\Debug\net7.0\Exercicio_110.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\bin\Debug\net7.0\Exercicio_110.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\obj\Debug\net7.0\Exercicio_110.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\obj\Debug\net7.0\Exercicio_110.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\obj\Debug\net7.0\Exercicio_110.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\obj\Debug\net7.0\Exercicio_110.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\obj\Debug\net7.0\Exercicio_110.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\obj\Debug\net7.0\Exercicio_110.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\obj\Debug\net7.0\refint\Exercicio_110.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\obj\Debug\net7.0\Exercicio_110.pdb
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\obj\Debug\net7.0\Exercicio_110.genruntimeconfig.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_110\obj\Debug\net7.0\ref\Exercicio_110.dll
