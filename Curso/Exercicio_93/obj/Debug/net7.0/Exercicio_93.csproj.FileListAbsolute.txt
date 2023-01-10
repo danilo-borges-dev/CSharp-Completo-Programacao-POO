@@ -1,0 +1,5 @@
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_93\obj\Debug\net7.0\Exercicio_93.csproj.AssemblyReference.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_93\obj\Debug\net7.0\Exercicio_93.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_93\obj\Debug\net7.0\Exercicio_93.AssemblyInfoInputs.cache
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_93\obj\Debug\net7.0\Exercicio_93.AssemblyInfo.cs
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Exercicio_93\obj\Debug\net7.0\Exercicio_93.csproj.CoreCompileInputs.cache

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Entendo_Vetores.props" />
+</Project>

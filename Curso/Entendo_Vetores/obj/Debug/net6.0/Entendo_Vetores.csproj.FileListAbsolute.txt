@@ -24,3 +24,8 @@ C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Vetores\obj\Debug\net
 C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Vetores\obj\Debug\net6.0\Entendo_Vetores.pdb
 C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Vetores\obj\Debug\net6.0\Entendo_Vetores.genruntimeconfig.cache
 C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Vetores\obj\Debug\net6.0\ref\Entendo_Vetores.dll
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Vetores\obj\Debug\net6.0\staticwebassets\msbuild.Entendo_Vetores.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Vetores\obj\Debug\net6.0\staticwebassets\msbuild.build.Entendo_Vetores.props
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Vetores\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Entendo_Vetores.props
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Vetores\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Entendo_Vetores.props
+C:\Workspace\CSharp-Completo-Programacao-POO\Curso\Entendo_Vetores\obj\Debug\net6.0\staticwebassets.pack.json
