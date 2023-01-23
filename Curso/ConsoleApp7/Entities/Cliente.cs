@@ -2,9 +2,9 @@
 {
     internal class Cliente
     {
-        public string Nome { get; private set; }
-        public string Sobrenome { get; private set; }
-        public string NomeCompleto => Nome + Sobrenome;
-        public string NomeCompleto2() => Nome + Sobrenome;
+        public string Nome = string.Empty;
+        public string Sobrenome = string.Empty;
+        public string NomeCompletoProp => Nome + Sobrenome;
+        public string NomeCompletoMet() => Nome + Sobrenome;
     }
 }
